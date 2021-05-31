@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "You need to enable JavaScript to run this app.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Hello",
+      "body": "Heeeeeeeeeeeeelllllllllllllllllllllloooooooooooooo",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "My blog",
+      "body": "kjdgfesgkajchsbkachbKZSNc,zKMNCS",
+      "author": "Mario",
+      "id": 10
+    },
+    {
+      "title": "Blog 2",
+      "body": "khwfewhofihoeifhowiefoh",
+      "author": "Mario",
+      "id": 11
+    },
+    {
+      "title": "Johni",
+      "body": "jhsegfjaskffbsca",
+      "author": "Yoshi",
+      "id": 12
+    }
+  ]
+}
